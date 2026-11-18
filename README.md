@@ -48,15 +48,4 @@ CRUD application in Java using OOP principles, collections and File I/O for pers
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sai-Gautam-07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Gautam-07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sai-Gautam-07&theme=tokyonight&hide_border=true)
-
----
-
 ⭐ Open to internships and entry-level roles in full-stack and mobile development. Feel free to reach out.
